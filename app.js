@@ -27,8 +27,8 @@ app.get('/', (request, response) => {
 
 app.listen(port, () => {
     console.log(`App running on port ${port}.`)
-    db.sequelize.sync({force: true}).then(()=>{
-        return Seed();
+    db.sequelize.sync({force: false}).then(()=>{
+        // return Seed();
     }).catch(err=>{
         console.log(err);
     });
