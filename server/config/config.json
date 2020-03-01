@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "jitesh",
+    "password": "Jitesh@121",
+    "database": "retailer_database",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "jitesh",
+    "password": "Jitesh@121",
+    "database": "retailer_database",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "jitesh",
+    "password": "Jitesh@121",
+    "database": "retailer_database",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
