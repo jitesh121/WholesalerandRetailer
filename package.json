@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "async": "^3.2.0",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "core-util-is": "^1.0.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "path": "^0.12.7",
     "pg": "^7.18.2",
